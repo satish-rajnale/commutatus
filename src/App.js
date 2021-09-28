@@ -17,16 +17,14 @@ function App() {
   // const deletePost = (key) => {
   //   // filter out post containing that id
   //   let filterOutPost = [...data].filter((OBJ) => OBJ.id !== key);
-  //   // save the rest in state
+
   //   setData(filterOutPost);
 
-  //   // update write to json file
-  //   saveJson(filterOutPost);
+//  saveJson(filterOutPost);
   // };
 
-  // Write to JSON File
 
-  // this function will receive all uodated state / posts after you add, edit delete post
+  
   // const saveJson = (posts) => {
   //   // api URL // end point from node server / express server
   //   const url = "http://localhost:5000/addemploee";

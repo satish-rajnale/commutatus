@@ -1,0 +1,23 @@
+[
+    {
+        "name":"Human Resource Management (HR)",
+        "teams": [
+            "teamA", "teamB"],
+        "size":23,
+        "description":"To strengthen the company by recruiting talents."
+    },
+    {
+        "name":"Human Resource Management (HR)",
+        "teams": [
+            "teamA", "teamB"],
+        "size":23,
+        "description":"To strengthen the company by recruiting talents."
+    },
+    {
+        "name":"Human Resource Management (HR)",
+        "teams": [
+            "teamA", "teamB"],
+        "size":23,
+        "description":"To strengthen the company by recruiting talents."
+    }
+]
